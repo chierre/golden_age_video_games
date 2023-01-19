@@ -4,7 +4,7 @@ In this project, I have analyzed video game critic and user scores as well as sa
 My job involved joining datasets and comparing results with set theory. I also needed to filter, group, and order data.
 
 ## A few more words
-This is my first SQL project done. 
+This was my first SQL project done. 
 
 It was provided by DataCamp, and I felt pretty confortable doing it.
 
